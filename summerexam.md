@@ -14,7 +14,7 @@ fn main() {
     
     // TODO: Implement the file copy logic here.
 }
-
+```
 
 ## 2. Shared State Concurrency (20 marks)
 
@@ -47,7 +47,7 @@ fn main() {
 
     // TODO: Print the final value of the counter.
 }
-
+```
 
 ## 3. Inter-process Communication (20 marks)
 
@@ -66,7 +66,7 @@ fn main() {
 
     // TODO: Spawn the sender and receiver threads and implement the logic.
 }
-
+```
 ## 4. Error Handling (20 marks)
 
 **Objective**: Understand Rust's error handling mechanism and how to define custom error types.
@@ -90,7 +90,7 @@ fn multiply_from_file() -> Result<i32, CustomError> {
 fn main() {
     // TODO: Test the multiply_from_file function.
 }
-
+```
 ## 5. Generics and Traits (20 marks)
 
 **Objective**: Understand the use of generics and traits to create flexible and type-safe code in Rust.
@@ -113,5 +113,5 @@ fn print_area<T: Area>(shape: T) {
 fn main() {
     // TODO: Test the geometric shapes and the print_area function.
 }
-
+```
 
