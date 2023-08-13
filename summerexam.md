@@ -1,3 +1,4 @@
+
 ## 1. File I/O (20 marks)
 
 **Objective**: Understand file handling and error management in Rust.
